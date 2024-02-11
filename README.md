@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **E-commerce**
 
-- 🌱 I’m currently learning **Java, Micronote**
+- 🌱 I’m currently learning **Java, Micronaut**
 
 - 👨‍💻 All of my projects are available at [https://bbk8910.github.io/my-portfolio/](https://bbk8910.github.io/my-portfolio/)
 
